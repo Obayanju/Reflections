@@ -25,7 +25,15 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    How would I collaborate without Git or Github, hmm. I guess i'll use gmail to send files of my code
+    . Bitbucket maybe, but without Git i'll put Google to work by using. I could share files with
+    Google drive also. 
+    For very limited work, there would be simplicity. One would not need to get tutorials to learn
+    Git and GitHub. Collaboration would be definitely harder, especially for huge projects. Also,
+    reachability for developers would be more difficult without Github, we won't be able to reach 
+    other coders and companies. It would also be harder to learn from other people's code without
+    GitHub. Without Git there would no be GitHub, or GitHub would be too limited since its built on 
+    Git.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
