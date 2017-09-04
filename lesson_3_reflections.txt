@@ -6,12 +6,8 @@ local?
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-<<<<<<< HEAD
     Sometimes, we don't want every change made on a GitHub repo to be visible on our local repo,
     so we pull the ones we are interested in manually.
-=======
-    when working in a team, code pushed into the local repo would not be able to be regulated the way it is when code is pushed into gituhb.
->>>>>>> cb4f9612dca46ca02f2d52733a8ce6efaf18b94b
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
