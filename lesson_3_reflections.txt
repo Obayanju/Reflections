@@ -1,28 +1,28 @@
-When would you want to use a remote repository rather than keeping all your work
+1. When would you want to use a remote repository rather than keeping all your work
 local?
 
     This would be useful if one wants to share code with other people.
 
-Why might you want to always pull changes manually rather than having Git
+2. Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
     Sometimes, we don't want every change made on a GitHub repo to be visible on our local repo,
     so we pull the ones we are interested in manually.
 
-Describe the differences between forks, clones, and branches.  When would you
+3. Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
     forks -  when you want a version of someone else's repo so you can clone it and do wateva
     clones - this a a copy of my own repo
     branches - they are used for making feautures
 
-What is the benefit of having a copy of the last known state of the remote
+4. What is the benefit of having a copy of the last known state of the remote
 stored locally?
     If you want to go offline, you can update your local repo even if you aren't ready to merge
     the changes into your own branch. 
     
 
-How would you collaborate without using Git or GitHub?  What would be easier,
+5. How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
     How would I collaborate without Git or Github, hmm. I guess i'll use gmail to send files of my code
@@ -35,7 +35,12 @@ and what would be harder?
     GitHub. Without Git there would no be GitHub, or GitHub would be too limited since its built on 
     Git.
 
-When would you want to make changes in a separate branch rather than directly in
+6. When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    When I want my changes to be checked before pushing to the master branch, I can use a separate 
+    branch. Using a separate branch rather than master helps to inform other collaborators of 
+    incoming changes, and so they could check for errors before pulling my changes into the master
+    branch. Directly making changes on the master branch is great when I am the only one working 
+    on a project, it makes things simple. Though I could still create separate branches when working
+    alone if I want to test feautures and don't want to mess with the master branch.
